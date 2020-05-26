@@ -1,0 +1,41 @@
+body{background-color: rgb(24, 158, 182)}
+h1{color:rgb(121, 30, 98);
+        font-family: arial;
+        font-size:30px;
+        font-weight:bold;  
+        text-decoration:underline;
+        padding:20px;
+        border:20px lightpink solid;
+        margin:20px;
+    }
+    
+h2{color:rgb(121, 30, 98);
+        h2 {font-family: arial;
+    }
+
+.box1{background-color: darkorchid;
+    color:rgb(255, 255, 255);
+    /*content*/
+    width:150px;
+    height:80px;
+    /*padding-top-right-bottom-left*/
+    padding:20px 40px 20px 40px;
+    /*border-width-style-color*/
+    border:15px solid pink;
+    */margin*/
+    margin: 140px;
+}
+
+.box2{background-color: darkorchid;
+    color:rgb(255, 255, 255);
+    /*content*/
+    width:100px;
+    height:40px;
+    /*padding-top-right-bottom-left*/
+    padding:10px 20px 10px 20px;
+    /*border-width-style-color*/
+    border:15px solid pink;
+    */margin*/
+    margin: 80px;
+}
+  
